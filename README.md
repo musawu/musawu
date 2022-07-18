@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png)
 
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I am @Jacob
@@ -75,5 +75,5 @@ I am a computer science engineer and have experience in working in startups as b
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jacob-kingi-664948167/)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) jacobkingzklbz5115@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) jacobkingzklbz5115@gmail.com -->
 
